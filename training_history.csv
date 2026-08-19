@@ -1,0 +1,2 @@
+﻿execution_date,total_rows_trained,new_data_rows,model_mae_on_new_data,model_mape_on_new_data,model_r2_on_new_data,model_recall_on_new_data,model_auc_on_new_data
+2026-01-31,14827,226,233533.2207871171,0.02989500658085968,0.9907433600886536,0.6,0.20542986425339368
